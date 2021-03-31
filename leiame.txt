@@ -1,0 +1,8 @@
+Execução do Projeto:
+1º Abrir o arquivo index.html
+2º Selecionar o algoritmo desejado
+3º Indicar quantos processos deseja
+4º Passar todas as informações solicitadas (Duração, Tempo de Ingresso, Quantum (caso precise), Prioridade (caso precise))
+5º Apreciar o gráfico
+
+OBS: para que o gráfico seja visualizado corretamente, é recomendável rodar o mesmo na resolução 1920x1080. Caso isso não seja possível, recomendamos diminuir o zoom da página, para que a régua de tempo seja mostrada corretamente.
