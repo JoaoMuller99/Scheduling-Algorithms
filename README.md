@@ -1,2 +1,1 @@
-# Algoritmos de Escalonamento
- 
+# Scheduling Algorithms
