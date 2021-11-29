@@ -1,2 +1,2 @@
-# Trabalho G1 - Sistemas Operacionais
+# Algoritmos de Escalonamento
  
